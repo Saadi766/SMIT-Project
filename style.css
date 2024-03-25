@@ -1,0 +1,23 @@
+img {
+    border-radius: 10px;
+}
+h1{
+    color: brown;
+}
+strong{
+    color: red;
+}
+header nav a {
+    text-decoration: none;
+}
+footer form {
+    margin: 0 auto;
+    width: 50%;
+}
+#heading{
+    text-align: center;
+}
+table, th, td {border: 1px solid ;
+    
+} 
+
