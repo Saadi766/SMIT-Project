@@ -20,4 +20,43 @@ footer form {
 table, th, td {border: 1px solid ;
     
 } 
+#maps{
+    border-radius: 10px;
+}
+ #table{
+    color: blue;
+}
+#Project{
+    color: brown;
+}
 
+  
+  nav {
+    background-color: #ada7d4;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: brown;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #0e1113;
+  }
+  body {
+    background-color: #b9d9e7;
+  }
